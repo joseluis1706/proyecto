@@ -17,3 +17,19 @@ body{
         line-height: 3ex;
         padding: 0% 10%;
 }
+
+.foot{
+    background: darkcyan;
+    text-align: center;
+    font-family: Courier courier courier;
+    font-size: small;
+    display: block;
+}
+
+.piepagina{
+    text-align: center;
+    font-family: Courier courier courier;
+    font-size: small;
+}
+
+
