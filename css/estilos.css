@@ -3,4 +3,17 @@ body{
     background-color: azure;
     text-align: justify;
     font-family: arial;
+    padding: 0% 2%;
+}
+.tema{
+    color: blue;
+    font-size: 40px;
+    text-shadow: 0.1em 0.1em rgb(65, 62, 62);
+    }
+
+.lista{
+        margin-bottom: 10px;
+        color: darkblue;
+        line-height: 3ex;
+        padding: 0% 10%;
 }
